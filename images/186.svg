@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="13.2px" width="90.8px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1, 0, 0, 1, 45.4, -23.4)">
+    <path d="M12.9 26.2 L12.9 24.1 Q12.9 23.4 13.95 23.4 L43.2 23.4 Q44.25 23.4 44.25 24.1 46.6 30.05 44.25 35.9 44.25 36.6 43.2 36.6 L13.95 36.6 Q12.9 36.6 12.9 35.9 L12.9 33.7 Q10.0 30.75 12.9 26.2" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M12.9 26.2 Q10.0 30.75 12.9 33.7 L-12.95 33.7 Q-11.35 29.95 -12.95 26.2 L-4.0 26.2 -4.0 27.2 Q-4.0 28.4 -2.75 29.05 -0.5 31.45 2.8 28.65 3.0 28.4 3.0 27.2 L3.0 26.2 12.9 26.2" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-12.95 33.7 L-12.95 35.9 Q-12.95 36.6 -14.0 36.6 L-43.25 36.6 Q-44.3 36.6 -44.3 35.9 -46.5 30.05 -44.3 24.1 -44.3 23.4 -43.25 23.4 L-14.0 23.4 Q-12.95 23.4 -12.95 24.1 L-12.95 26.2 Q-11.35 29.95 -12.95 33.7" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(1.0E-4, 0.0076, -0.0076, 2.0E-4, 28.6, 30.05)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#666666"/>
+      <stop offset="0.28627450980392155" stop-color="#999999"/>
+      <stop offset="1.0" stop-color="#333333"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.0046, -0.0213, 0.0, -0.95, 29.95)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#666666"/>
+      <stop offset="0.29411764705882354" stop-color="#999999"/>
+      <stop offset="1.0" stop-color="#333333"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.0089, -0.0075, 0.0, -28.6, 30.05)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#666666"/>
+      <stop offset="0.28627450980392155" stop-color="#999999"/>
+      <stop offset="1.0" stop-color="#333333"/>
+    </linearGradient>
+  </defs>
+</svg>
